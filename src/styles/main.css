@@ -113,6 +113,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     align-content: space-evenly;
+    padding: 0;
 }
 .nav-manu-ul-li {
     list-style: none;
